@@ -1,5 +1,4 @@
-Software Engineering Intern @ <a href="https://www.inventanalytics.com/"> Invent Analytics</a>.<br>
-Previously an iOS Developer @ <a href="https://www.rentcarla.com/"> Carla</a>.<br> 
+Software Engineer @ <a href="https://www.inventanalytics.com/"> Invent Analytics</a>. Previously @ <a href="https://www.rentcarla.com/"> Carla</a>.<br> 
 
 **Computer Engineering Student** in **Bogazici University**.
 
