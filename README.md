@@ -1,5 +1,5 @@
-Software Engineer @  <a href="https://www.styluscapital.com/"> Stylus Capital</a>. 
-<br>Previously @ <a href="https://www.inventanalytics.com/"> Invent Analytics</a> & <a href="https://www.rentcarla.com/"> Carla</a>.<br> 
+Software Engineer @ <a href="https://www.chainway.xyz/"> Chainway</a>. 
+<br>Previously  @  <a href="https://www.styluscapital.com/"> Stylus Capital</a>, <a href="https://www.inventanalytics.com/"> Invent Analytics</a>, <a href="https://www.rentcarla.com/"> Carla</a>.<br> 
 
 Computer Engineering Student @ Bogazici University.
 
